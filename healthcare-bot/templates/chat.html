@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Healthcare Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="chatbox">
+
+    <!-- Top Prompt -->
+    <div class="top-prompt">
+        <div class="prompt-icon">🩺</div>
+        <div class="prompt-text">
+            <div class="prompt-title">How can I help you today?</div>
+            <div class="prompt-subtitle">
+                Describe your symptoms to get health advice<br>
+                <small>Example: fever, cough, headache</small>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chat Messages -->
+    <div id="messages"></div>
+
+    <!-- Input Area -->
+    <div class="input-area">
+        <input id="input" placeholder="Type your symptoms..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<script src="/static/chat.js"></script>
+</body>
+
+</html>

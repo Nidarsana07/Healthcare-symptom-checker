@@ -1,0 +1,1110 @@
+[
+  {
+    "condition": "Common Cold",
+    "symptoms": [
+      "cold",
+      "cough",
+      "sneezing",
+      "runny nose",
+      "sore throat",
+      "nasal congestion"
+    ],
+    "severity": "Low",
+    "advice": "Rest, drink fluids, and seek medical advice if symptoms worsen or persist."
+  },
+  {
+    "condition": "Seasonal Flu",
+    "symptoms": [
+      "fever",
+      "chills",
+      "body pain",
+      "fatigue",
+      "cough",
+      "headache"
+    ],
+    "severity": "Medium",
+    "advice": "Rest and drink fluids. Contact a clinician if symptoms are severe or worsening."
+  },
+  {
+    "condition": "Viral Fever",
+    "symptoms": [
+      "fever",
+      "headache",
+      "body pain",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "severity": "Medium",
+    "advice": "Stay hydrated and seek medical advice for persistent or worsening fever."
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "vomiting",
+      "sensitivity to light",
+      "sensitivity to sound",
+      "one sided headache"
+    ],
+    "severity": "Medium",
+    "advice": "Rest in a quiet, dark room. A sudden worst-ever headache requires emergency assessment."
+  },
+  {
+    "condition": "Tension Headache",
+    "symptoms": [
+      "mild headache",
+      "pressure around head",
+      "neck pain",
+      "tight scalp",
+      "stress"
+    ],
+    "severity": "Low",
+    "advice": "Rest, hydrate, and consider relaxation. Seek assessment for new or worsening headaches."
+  },
+  {
+    "condition": "Food Poisoning",
+    "symptoms": [
+      "vomiting",
+      "diarrhea",
+      "stomach pain",
+      "nausea",
+      "stomach cramps"
+    ],
+    "severity": "Medium",
+    "advice": "Replace fluids. Seek care for blood in stool, severe pain, or dehydration."
+  },
+  {
+    "condition": "Gastritis / Indigestion",
+    "symptoms": [
+      "stomach pain",
+      "bloating",
+      "acidity",
+      "heartburn",
+      "upper abdominal discomfort"
+    ],
+    "severity": "Low",
+    "advice": "Try smaller meals and avoid personal triggers. Seek advice if symptoms persist."
+  },
+  {
+    "condition": "Dehydration",
+    "symptoms": [
+      "dizziness",
+      "dry mouth",
+      "fatigue",
+      "dark urine",
+      "thirst",
+      "reduced urination"
+    ],
+    "severity": "Medium",
+    "advice": "Drink fluids or oral rehydration solution when appropriate. Confusion or fainting needs urgent care."
+  },
+  {
+    "condition": "Anemia Possible Symptoms",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "pale skin",
+      "shortness of breath",
+      "dizziness",
+      "cold hands"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment and blood tests; symptoms alone cannot identify the cause."
+  },
+  {
+    "condition": "Anxiety / Panic Symptoms",
+    "symptoms": [
+      "chest tightness",
+      "palpitations",
+      "sweating",
+      "restlessness",
+      "fear",
+      "rapid breathing",
+      "tingling hands"
+    ],
+    "severity": "Medium",
+    "advice": "Try slow breathing and seek professional support if recurring. New chest pain needs assessment."
+  },
+  {
+    "condition": "Respiratory Infection",
+    "symptoms": [
+      "cough",
+      "breathlessness",
+      "fever",
+      "chest discomfort",
+      "mucus"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical assessment, especially for breathing difficulty or chest pain."
+  },
+  {
+    "condition": "Urinary Tract Infection",
+    "symptoms": [
+      "burning urination",
+      "frequent urination",
+      "lower abdominal pain",
+      "urgent urination",
+      "cloudy urine"
+    ],
+    "severity": "Medium",
+    "advice": "Contact a clinician for assessment and treatment. Fever or back pain warrants prompt care."
+  },
+  {
+    "condition": "Heat Exhaustion",
+    "symptoms": [
+      "dizziness",
+      "excessive sweating",
+      "nausea",
+      "weakness",
+      "headache",
+      "muscle cramps"
+    ],
+    "severity": "High",
+    "advice": "Move to a cool place and sip fluids if alert. Confusion or collapse is an emergency."
+  },
+  {
+    "condition": "Allergic Reaction",
+    "symptoms": [
+      "itching",
+      "rash",
+      "sneezing",
+      "watery eyes",
+      "hives"
+    ],
+    "severity": "Low",
+    "advice": "Avoid the suspected trigger. Tongue or throat swelling or breathing difficulty is an emergency."
+  },
+  {
+    "condition": "Diabetes Warning Signs",
+    "symptoms": [
+      "frequent urination",
+      "excessive thirst",
+      "fatigue",
+      "blurred vision",
+      "unexplained weight loss",
+      "increased hunger"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment and blood glucose testing. Symptoms alone cannot diagnose diabetes."
+  },
+  {
+    "condition": "Cardiac Emergency Warning Signs",
+    "symptoms": [
+      "chest pain",
+      "left arm pain",
+      "breathlessness",
+      "sweating",
+      "pressure in chest",
+      "jaw pain"
+    ],
+    "severity": "High",
+    "advice": "Possible heart attack symptoms require emergency medical services immediately."
+  },
+  {
+    "condition": "Allergic Rhinitis",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "itchy nose",
+      "watery eyes",
+      "nasal itching"
+    ],
+    "severity": "Low",
+    "advice": "Avoid suspected triggers and ask a clinician or pharmacist about suitable symptom relief."
+  },
+  {
+    "condition": "Sinusitis",
+    "symptoms": [
+      "facial pressure",
+      "sinus pain",
+      "nasal congestion",
+      "headache",
+      "thick nasal discharge",
+      "reduced smell"
+    ],
+    "severity": "Medium",
+    "advice": "Rest and hydrate. Seek advice for severe, prolonged, or worsening symptoms."
+  },
+  {
+    "condition": "Asthma Warning Signs",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "persistent cough",
+      "night cough"
+    ],
+    "severity": "High",
+    "advice": "Follow the prescribed asthma action plan. Severe breathing difficulty is an emergency."
+  },
+  {
+    "condition": "Bronchitis",
+    "symptoms": [
+      "persistent cough",
+      "mucus",
+      "chest discomfort",
+      "fatigue",
+      "wheezing"
+    ],
+    "severity": "Medium",
+    "advice": "Rest and drink fluids. Seek care for breathing difficulty or worsening symptoms."
+  },
+  {
+    "condition": "Pneumonia Warning Signs",
+    "symptoms": [
+      "fever",
+      "cough",
+      "shortness of breath",
+      "chest pain",
+      "rapid breathing",
+      "chills"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical assessment, especially with breathing difficulty or confusion."
+  },
+  {
+    "condition": "COVID-19 Possible Symptoms",
+    "symptoms": [
+      "fever",
+      "cough",
+      "sore throat",
+      "loss of smell",
+      "fatigue",
+      "body aches",
+      "nasal congestion"
+    ],
+    "severity": "Medium",
+    "advice": "Consider testing and follow current public-health guidance. Breathing difficulty needs urgent care."
+  },
+  {
+    "condition": "Strep Throat Possible Symptoms",
+    "symptoms": [
+      "sore throat",
+      "painful swallowing",
+      "fever",
+      "swollen lymph nodes",
+      "tonsil spots"
+    ],
+    "severity": "Medium",
+    "advice": "Consult a healthcare professional for assessment and testing if indicated."
+  },
+  {
+    "condition": "Gastroenteritis",
+    "symptoms": [
+      "diarrhea",
+      "vomiting",
+      "stomach cramps",
+      "nausea",
+      "watery stool"
+    ],
+    "severity": "Medium",
+    "advice": "Replace fluids and electrolytes. Seek care for blood in stool or dehydration."
+  },
+  {
+    "condition": "Constipation",
+    "symptoms": [
+      "hard stools",
+      "infrequent bowel movements",
+      "straining",
+      "bloating",
+      "difficulty passing stool"
+    ],
+    "severity": "Low",
+    "advice": "Fluids, fibre, and activity may help. Severe pain or vomiting needs urgent assessment."
+  },
+  {
+    "condition": "Irritable Bowel Syndrome Possible Symptoms",
+    "symptoms": [
+      "abdominal cramps",
+      "bloating",
+      "diarrhea",
+      "constipation",
+      "pain relieved by bowel movement"
+    ],
+    "severity": "Medium",
+    "advice": "Track symptoms and consult a clinician for persistent symptoms or warning signs."
+  },
+  {
+    "condition": "Acid Reflux",
+    "symptoms": [
+      "heartburn",
+      "acid taste",
+      "regurgitation",
+      "burning chest",
+      "symptoms after meals"
+    ],
+    "severity": "Low",
+    "advice": "Avoid personal triggers and large meals before lying down. New chest pain needs urgent assessment."
+  },
+  {
+    "condition": "Peptic Ulcer Warning Signs",
+    "symptoms": [
+      "upper abdominal pain",
+      "stomach burning",
+      "nausea",
+      "indigestion",
+      "pain between meals"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment. Vomiting blood or black stools requires emergency care."
+  },
+  {
+    "condition": "Appendicitis Warning Signs",
+    "symptoms": [
+      "right lower abdominal pain",
+      "abdominal pain moving to right side",
+      "nausea",
+      "vomiting",
+      "fever",
+      "loss of appetite"
+    ],
+    "severity": "High",
+    "advice": "Seek urgent medical assessment for new or worsening lower-right abdominal pain."
+  },
+  {
+    "condition": "Kidney Stone Warning Signs",
+    "symptoms": [
+      "severe side pain",
+      "flank pain",
+      "blood in urine",
+      "nausea",
+      "pain radiating to groin"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical assessment. Fever with severe side pain needs urgent care."
+  },
+  {
+    "condition": "Kidney Infection Warning Signs",
+    "symptoms": [
+      "fever",
+      "back pain",
+      "side pain",
+      "painful urination",
+      "nausea",
+      "chills"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical care because kidney infections may require prescription treatment."
+  },
+  {
+    "condition": "Menstrual Cramps",
+    "symptoms": [
+      "menstrual cramps",
+      "period pain",
+      "lower abdominal pain",
+      "back pain",
+      "nausea during period"
+    ],
+    "severity": "Low",
+    "advice": "Rest and consider gentle heat. Seek care for severe or unusual pain."
+  },
+  {
+    "condition": "Vertigo",
+    "symptoms": [
+      "spinning sensation",
+      "dizziness",
+      "balance problems",
+      "nausea",
+      "room spinning"
+    ],
+    "severity": "Medium",
+    "advice": "Sit or lie down to avoid falls. Sudden vertigo with weakness or speech difficulty is an emergency."
+  },
+  {
+    "condition": "Motion Sickness",
+    "symptoms": [
+      "nausea during travel",
+      "dizziness during travel",
+      "vomiting during travel",
+      "cold sweating"
+    ],
+    "severity": "Low",
+    "advice": "Get fresh air, look toward the horizon, and rest when possible."
+  },
+  {
+    "condition": "Cluster Headache Warning Signs",
+    "symptoms": [
+      "severe one sided headache",
+      "eye pain",
+      "watery eyes",
+      "nasal congestion",
+      "drooping eyelid"
+    ],
+    "severity": "Medium",
+    "advice": "Seek medical assessment for severe or recurring headaches."
+  },
+  {
+    "condition": "Concussion Warning Signs",
+    "symptoms": [
+      "head injury",
+      "headache after injury",
+      "dizziness after injury",
+      "confusion",
+      "nausea after head injury",
+      "memory gap"
+    ],
+    "severity": "High",
+    "advice": "Get medical assessment after a significant head injury. Worsening confusion or repeated vomiting is urgent."
+  },
+  {
+    "condition": "Eczema",
+    "symptoms": [
+      "itchy skin",
+      "dry skin",
+      "red patches",
+      "skin irritation",
+      "scaly patches"
+    ],
+    "severity": "Low",
+    "advice": "Use gentle skin care and avoid known irritants. Seek advice for persistent or infected-looking skin."
+  },
+  {
+    "condition": "Fungal Skin Infection Possible",
+    "symptoms": [
+      "ring shaped rash",
+      "itchy rash",
+      "scaly skin",
+      "skin peeling",
+      "circular skin patch"
+    ],
+    "severity": "Low",
+    "advice": "Keep the area clean and dry and ask a pharmacist or clinician about appropriate treatment."
+  },
+  {
+    "condition": "Acne",
+    "symptoms": [
+      "pimples",
+      "blackheads",
+      "whiteheads",
+      "inflamed skin",
+      "facial spots"
+    ],
+    "severity": "Low",
+    "advice": "Use gentle skin care and avoid squeezing spots. Seek advice for painful or persistent acne."
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "symptoms": [
+      "itchy rash",
+      "red skin",
+      "skin irritation",
+      "swelling after contact",
+      "burning skin"
+    ],
+    "severity": "Low",
+    "advice": "Avoid suspected irritants and seek advice if the rash spreads or does not improve."
+  },
+  {
+    "condition": "Hypertension Concern",
+    "symptoms": [
+      "high blood pressure reading",
+      "repeated high blood pressure",
+      "headache with high blood pressure"
+    ],
+    "severity": "Medium",
+    "advice": "Measure blood pressure correctly and consult a clinician; symptoms alone cannot diagnose hypertension."
+  },
+  {
+    "condition": "Hypoglycemia Warning Signs",
+    "symptoms": [
+      "shaking",
+      "sweating",
+      "hunger",
+      "confusion",
+      "dizziness",
+      "sudden weakness"
+    ],
+    "severity": "High",
+    "advice": "Follow the prescribed low-blood-sugar plan if applicable. Severe confusion or unconsciousness is an emergency."
+  },
+  {
+    "condition": "Hypothyroidism Possible Symptoms",
+    "symptoms": [
+      "fatigue",
+      "cold intolerance",
+      "weight gain",
+      "dry skin",
+      "constipation",
+      "slow heartbeat"
+    ],
+    "severity": "Medium",
+    "advice": "Consult a healthcare professional for assessment and thyroid testing if indicated."
+  },
+  {
+    "condition": "Hyperthyroidism Possible Symptoms",
+    "symptoms": [
+      "rapid heartbeat",
+      "trembling",
+      "heat intolerance",
+      "unexplained weight loss",
+      "anxiety",
+      "increased sweating"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment for persistent symptoms or a racing heartbeat."
+  },
+  {
+    "condition": "Vitamin B12 Deficiency Possible Symptoms",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "numbness",
+      "tingling hands",
+      "tingling feet",
+      "balance problems"
+    ],
+    "severity": "Medium",
+    "advice": "Consult a clinician for assessment and testing rather than self-diagnosing."
+  },
+  {
+    "condition": "Iron Deficiency Possible Symptoms",
+    "symptoms": [
+      "fatigue",
+      "pale skin",
+      "weakness",
+      "shortness of breath on exertion",
+      "brittle nails",
+      "dizziness"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment and blood tests; do not assume symptoms are caused by low iron."
+  },
+  {
+    "condition": "Dengue Warning Signs",
+    "symptoms": [
+      "fever",
+      "severe headache",
+      "pain behind eyes",
+      "muscle pain",
+      "joint pain",
+      "rash"
+    ],
+    "severity": "High",
+    "advice": "Seek medical assessment for suspected dengue. Bleeding, severe abdominal pain, or persistent vomiting needs urgent care."
+  },
+  {
+    "condition": "Malaria Warning Signs",
+    "symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "headache",
+      "body pain",
+      "fever episodes"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical testing if malaria exposure is possible."
+  },
+  {
+    "condition": "Typhoid Warning Signs",
+    "symptoms": [
+      "persistent fever",
+      "headache",
+      "weakness",
+      "abdominal pain",
+      "diarrhea",
+      "constipation"
+    ],
+    "severity": "High",
+    "advice": "Seek medical evaluation and appropriate testing for persistent fever."
+  },
+  {
+    "condition": "Chickenpox Possible Symptoms",
+    "symptoms": [
+      "itchy blisters",
+      "fluid filled rash",
+      "fever",
+      "tiredness",
+      "rash in stages"
+    ],
+    "severity": "Medium",
+    "advice": "Contact a clinician, particularly for adults, pregnancy, or weakened immunity."
+  },
+  {
+    "condition": "Measles Warning Signs",
+    "symptoms": [
+      "fever",
+      "cough",
+      "runny nose",
+      "red eyes",
+      "widespread rash",
+      "light sensitivity"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical advice and call ahead before visiting a clinic."
+  },
+  {
+    "condition": "Hand Foot and Mouth Disease Possible Symptoms",
+    "symptoms": [
+      "mouth sores",
+      "painful mouth ulcers",
+      "hand rash",
+      "foot rash",
+      "fever"
+    ],
+    "severity": "Medium",
+    "advice": "Maintain hydration and seek advice if drinking becomes difficult."
+  },
+  {
+    "condition": "Ear Infection Possible Symptoms",
+    "symptoms": [
+      "ear pain",
+      "ear pressure",
+      "reduced hearing",
+      "fever",
+      "ear discharge"
+    ],
+    "severity": "Medium",
+    "advice": "Seek medical advice for severe pain, discharge, fever, or worsening symptoms."
+  },
+  {
+    "condition": "Conjunctivitis Possible Symptoms",
+    "symptoms": [
+      "red eye",
+      "itchy eye",
+      "watery eye",
+      "eye discharge",
+      "crusty eyelids"
+    ],
+    "severity": "Low",
+    "advice": "Wash hands and avoid sharing towels. Eye pain or vision changes needs urgent assessment."
+  },
+  {
+    "condition": "Dry Eye",
+    "symptoms": [
+      "dry eyes",
+      "gritty eyes",
+      "burning eyes",
+      "eye irritation",
+      "blurred vision that improves with blinking"
+    ],
+    "severity": "Low",
+    "advice": "Take screen breaks and ask a clinician about suitable lubricating drops if needed."
+  },
+  {
+    "condition": "Glaucoma Emergency Warning Signs",
+    "symptoms": [
+      "sudden severe eye pain",
+      "red eye with headache",
+      "blurred vision",
+      "halos around lights",
+      "nausea with eye pain"
+    ],
+    "severity": "High",
+    "advice": "Sudden severe eye pain with vision changes is an emergency."
+  },
+  {
+    "condition": "Dental Cavity Possible Symptoms",
+    "symptoms": [
+      "toothache",
+      "sensitivity to sweets",
+      "sensitivity to cold",
+      "visible tooth hole",
+      "pain when chewing"
+    ],
+    "severity": "Low",
+    "advice": "Arrange a dental appointment. Facial swelling or difficulty swallowing needs urgent care."
+  },
+  {
+    "condition": "Dental Abscess Warning Signs",
+    "symptoms": [
+      "severe tooth pain",
+      "gum swelling",
+      "facial swelling",
+      "pus near tooth",
+      "fever with tooth pain"
+    ],
+    "severity": "High",
+    "advice": "Seek urgent dental care. Difficulty breathing or swallowing is an emergency."
+  },
+  {
+    "condition": "Gum Inflammation",
+    "symptoms": [
+      "bleeding gums",
+      "swollen gums",
+      "red gums",
+      "bad breath",
+      "tender gums"
+    ],
+    "severity": "Low",
+    "advice": "Maintain gentle oral hygiene and arrange dental care if symptoms persist."
+  },
+  {
+    "condition": "Back Muscle Strain",
+    "symptoms": [
+      "lower back pain after lifting",
+      "muscle spasm",
+      "back stiffness",
+      "pain with movement"
+    ],
+    "severity": "Low",
+    "advice": "Avoid activities that worsen pain and stay gently mobile as tolerated. New bladder or bowel control changes are urgent."
+  },
+  {
+    "condition": "Sciatica Possible Symptoms",
+    "symptoms": [
+      "pain radiating down leg",
+      "shooting leg pain",
+      "tingling leg",
+      "numbness in leg",
+      "lower back pain"
+    ],
+    "severity": "Medium",
+    "advice": "Seek clinical advice for persistent symptoms. New weakness or bladder/bowel changes need urgent care."
+  },
+  {
+    "condition": "Arthritis Possible Symptoms",
+    "symptoms": [
+      "joint pain",
+      "joint stiffness",
+      "swollen joints",
+      "reduced joint movement",
+      "morning stiffness"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange clinical assessment for persistent joint symptoms. A hot swollen joint with fever needs urgent care."
+  },
+  {
+    "condition": "Sprain or Strain",
+    "symptoms": [
+      "ankle swelling after twist",
+      "joint pain after injury",
+      "bruising",
+      "muscle pain after exercise",
+      "difficulty bearing weight"
+    ],
+    "severity": "Medium",
+    "advice": "Protect the injured area. Severe pain, deformity, numbness, or inability to bear weight needs assessment."
+  },
+  {
+    "condition": "Possible Fracture",
+    "symptoms": [
+      "bone pain after injury",
+      "visible deformity",
+      "severe swelling after injury",
+      "unable to bear weight",
+      "bone tenderness"
+    ],
+    "severity": "High",
+    "advice": "Seek urgent medical assessment and avoid putting weight on the injured area."
+  },
+  {
+    "condition": "Carpal Tunnel Possible Symptoms",
+    "symptoms": [
+      "numb fingers",
+      "tingling thumb",
+      "tingling index finger",
+      "hand weakness",
+      "wrist pain at night"
+    ],
+    "severity": "Low",
+    "advice": "Consult a clinician if symptoms persist or weakness progresses."
+  },
+  {
+    "condition": "Stroke Warning Signs",
+    "symptoms": [
+      "face drooping",
+      "arm weakness",
+      "speech difficulty",
+      "sudden numbness one side",
+      "sudden vision loss",
+      "sudden confusion"
+    ],
+    "severity": "High",
+    "advice": "Call emergency services immediately for sudden stroke-like symptoms, even if they improve."
+  },
+  {
+    "condition": "Severe Allergic Reaction Warning Signs",
+    "symptoms": [
+      "throat swelling",
+      "tongue swelling",
+      "difficulty breathing after allergen",
+      "fainting after allergen",
+      "widespread hives with dizziness"
+    ],
+    "severity": "High",
+    "advice": "Possible anaphylaxis: use prescribed emergency medication if available and call emergency services."
+  },
+  {
+    "condition": "Sepsis Warning Signs",
+    "symptoms": [
+      "fever with confusion",
+      "very low temperature with confusion",
+      "rapid breathing",
+      "clammy skin",
+      "extreme weakness",
+      "reduced urination with infection"
+    ],
+    "severity": "High",
+    "advice": "Possible severe infection with confusion, breathing changes, collapse, or rapid deterioration requires emergency care."
+  },
+  {
+    "condition": "Tuberculosis Possible Symptoms",
+    "symptoms": [
+      "cough lasting weeks",
+      "night sweats",
+      "unexplained weight loss",
+      "coughing blood",
+      "persistent fever"
+    ],
+    "severity": "High",
+    "advice": "Arrange prompt medical evaluation and testing, especially for prolonged cough or possible exposure."
+  },
+  {
+    "condition": "Obstructive Sleep Apnea Possible Symptoms",
+    "symptoms": [
+      "loud snoring",
+      "breathing pauses during sleep",
+      "waking gasping",
+      "daytime sleepiness",
+      "morning headache"
+    ],
+    "severity": "Medium",
+    "advice": "Discuss symptoms with a healthcare professional; a sleep assessment may be needed."
+  },
+  {
+    "condition": "Insomnia",
+    "symptoms": [
+      "difficulty falling asleep",
+      "frequent waking",
+      "early morning waking",
+      "daytime tiredness"
+    ],
+    "severity": "Low",
+    "advice": "Keep a consistent sleep schedule and limit late caffeine. Seek help if persistent."
+  },
+  {
+    "condition": "Depression Possible Symptoms",
+    "symptoms": [
+      "persistent low mood",
+      "loss of interest",
+      "low energy",
+      "sleep changes",
+      "appetite changes",
+      "difficulty concentrating"
+    ],
+    "severity": "Medium",
+    "advice": "Consider speaking with a qualified mental-health professional. Immediate risk of self-harm requires urgent support."
+  },
+  {
+    "condition": "Panic Symptoms",
+    "symptoms": [
+      "sudden intense fear",
+      "racing heart",
+      "shaking",
+      "sweating",
+      "shortness of breath",
+      "fear of losing control"
+    ],
+    "severity": "Medium",
+    "advice": "Move to a safe place and try slow breathing if helpful. First-time chest pain needs medical assessment."
+  },
+  {
+    "condition": "Possible Pregnancy Symptoms",
+    "symptoms": [
+      "missed period",
+      "nausea in morning",
+      "breast tenderness",
+      "frequent urination",
+      "fatigue"
+    ],
+    "severity": "Low",
+    "advice": "A pregnancy test and clinician advice can clarify the cause. Severe abdominal pain or heavy bleeding needs urgent care."
+  },
+  {
+    "condition": "Pregnancy Warning Signs",
+    "symptoms": [
+      "heavy bleeding during pregnancy",
+      "severe abdominal pain during pregnancy",
+      "severe headache during pregnancy",
+      "vision changes during pregnancy",
+      "reduced fetal movement"
+    ],
+    "severity": "High",
+    "advice": "Seek urgent maternity or emergency medical assessment for these warning signs."
+  },
+  {
+    "condition": "Glucose High Warning Signs",
+    "symptoms": [
+      "excessive thirst",
+      "frequent urination",
+      "blurred vision",
+      "unexplained weight loss",
+      "very dry mouth"
+    ],
+    "severity": "Medium",
+    "advice": "Seek medical assessment and glucose testing. Vomiting, deep rapid breathing, confusion, or severe drowsiness is urgent."
+  },
+  {
+    "condition": "Low Blood Pressure Concern",
+    "symptoms": [
+      "lightheaded when standing",
+      "fainting",
+      "weakness",
+      "blurred vision",
+      "dizziness on standing"
+    ],
+    "severity": "Medium",
+    "advice": "Sit or lie down to reduce fall risk and seek advice if recurring. Fainting with chest pain is urgent."
+  },
+  {
+    "condition": "Food Allergy Possible Symptoms",
+    "symptoms": [
+      "itching after food",
+      "hives after food",
+      "lip swelling after food",
+      "vomiting after food",
+      "stomach cramps after food"
+    ],
+    "severity": "Medium",
+    "advice": "Avoid the suspected food and seek advice. Breathing difficulty or throat swelling is an emergency."
+  },
+  {
+    "condition": "Lactose Intolerance Possible Symptoms",
+    "symptoms": [
+      "bloating after dairy",
+      "gas after milk",
+      "diarrhea after dairy",
+      "stomach cramps after milk"
+    ],
+    "severity": "Low",
+    "advice": "Track symptoms in relation to dairy and discuss persistent symptoms with a clinician."
+  },
+  {
+    "condition": "Gallbladder Pain Warning Signs",
+    "symptoms": [
+      "right upper abdominal pain",
+      "pain after fatty meal",
+      "pain under right ribs",
+      "nausea after meals",
+      "pain radiating to back"
+    ],
+    "severity": "Medium",
+    "advice": "Seek medical assessment. Fever, jaundice, or severe persistent abdominal pain needs urgent care."
+  },
+  {
+    "condition": "Jaundice Warning Signs",
+    "symptoms": [
+      "yellow eyes",
+      "yellow skin",
+      "dark urine",
+      "pale stools",
+      "itching with yellow skin"
+    ],
+    "severity": "High",
+    "advice": "Seek prompt medical assessment for yellowing of the eyes or skin."
+  },
+  {
+    "condition": "Hearing Loss Concern",
+    "symptoms": [
+      "reduced hearing",
+      "muffled hearing",
+      "ringing ears",
+      "difficulty hearing speech"
+    ],
+    "severity": "Medium",
+    "advice": "Arrange medical assessment. Sudden hearing loss should be evaluated urgently."
+  },
+  {
+    "condition": "Tinnitus",
+    "symptoms": [
+      "ringing in ears",
+      "buzzing in ears",
+      "hissing in ears",
+      "ear noise without sound source"
+    ],
+    "severity": "Low",
+    "advice": "Seek assessment if persistent or distressing. Sudden tinnitus with hearing loss needs urgent evaluation."
+  },
+  {
+    "condition": "Nosebleed",
+    "symptoms": [
+      "bleeding from nose",
+      "nose bleeding",
+      "blood from nostril"
+    ],
+    "severity": "Medium",
+    "advice": "Sit forward and pinch the soft part of the nose continuously. Seek urgent help for heavy or persistent bleeding."
+  },
+  {
+    "condition": "Mouth Ulcers",
+    "symptoms": [
+      "mouth ulcers",
+      "painful mouth sores",
+      "ulcers on tongue",
+      "pain when eating"
+    ],
+    "severity": "Low",
+    "advice": "Avoid irritating foods and maintain oral hygiene. Seek assessment if ulcers last over two weeks."
+  },
+  {
+    "condition": "Oral Thrush Possible Symptoms",
+    "symptoms": [
+      "white patches in mouth",
+      "sore mouth",
+      "redness inside mouth",
+      "painful swallowing"
+    ],
+    "severity": "Medium",
+    "advice": "Consult a healthcare professional for confirmation and treatment."
+  },
+  {
+    "condition": "Deep Vein Thrombosis Warning Signs",
+    "symptoms": [
+      "one leg swelling",
+      "calf pain on one side",
+      "warm red calf",
+      "one leg tenderness"
+    ],
+    "severity": "High",
+    "advice": "Seek urgent medical assessment for possible blood clot. Chest pain or sudden breathlessness is an emergency."
+  },
+  {
+    "condition": "Pulmonary Embolism Warning Signs",
+    "symptoms": [
+      "sudden shortness of breath",
+      "chest pain worse with breathing",
+      "coughing blood",
+      "rapid heartbeat",
+      "fainting"
+    ],
+    "severity": "High",
+    "advice": "Call emergency services immediately for sudden breathing difficulty, chest pain, coughing blood, or fainting."
+  },
+  {
+    "condition": "Severe Abdominal Emergency Warning Signs",
+    "symptoms": [
+      "sudden severe abdominal pain",
+      "rigid abdomen",
+      "abdominal pain with fainting",
+      "persistent vomiting with abdominal pain"
+    ],
+    "severity": "High",
+    "advice": "Seek emergency medical assessment for sudden severe abdominal pain, a rigid abdomen, or fainting."
+  },
+  {
+    "condition": "Severe Asthma Attack Warning Signs",
+    "symptoms": [
+      "unable to speak full sentences",
+      "severe wheezing",
+      "blue lips",
+      "severe breathing difficulty",
+      "reliever inhaler not helping"
+    ],
+    "severity": "High",
+    "advice": "Call emergency services and follow the prescribed emergency asthma plan. Do not delay care."
+  },
+  {
+    "condition": "Heat Stroke Warning Signs",
+    "symptoms": [
+      "confusion after heat exposure",
+      "collapse in heat",
+      "very high body temperature",
+      "seizure after heat exposure",
+      "hot skin with altered awareness"
+    ],
+    "severity": "High",
+    "advice": "This is an emergency. Call emergency services, move to a cooler place, and begin safe cooling while help is coming."
+  }
+]
